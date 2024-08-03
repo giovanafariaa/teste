@@ -9,5 +9,15 @@
     padding: 25px;
     text-align: center;
 }
+       div {
+    display: block;
+    unicode-bidi: isolate;}
+
+       
 a:visited {
   color: #00FF00;
+}
+
+.list{ 
+        background-color: #FF0000;
+    }
