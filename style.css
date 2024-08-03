@@ -2,5 +2,12 @@
          {
           background-color: red;
         }
+
+       #change_color {
+    background-color: magenta;
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
 a:visited {
   color: #00FF00;
