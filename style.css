@@ -3,9 +3,11 @@
           background-color: red;
         }
 
-  .butao div:hover {
-  background-color: blue;
-}
+ #butao{
+    background-color: magenta;
+    color: white;
+    padding: 25px;
+    text-align: center;
        
 a:visited {
   color: #00FF00;
