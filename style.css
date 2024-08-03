@@ -16,3 +16,12 @@ a:visited {
 .list{ 
         background-color: #FF0000;
     }
+p {
+  display: none;
+  background-color: yellow;
+  padding: 20px;
+}
+
+div:hover p {
+  display: block;
+}
