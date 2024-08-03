@@ -3,16 +3,9 @@
           background-color: red;
         }
 
-       #COLOR_MOUSE {
-    background-color: magenta;
-    color: white;
-    padding: 25px;
-    text-align: center;
+  .butao div:hover {
+  background-color: blue;
 }
-       div {
-    display: block;
-    unicode-bidi: isolate;}
-
        
 a:visited {
   color: #00FF00;
